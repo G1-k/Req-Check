@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icddata>
+    <InputOutput>
+        <A429>
+            <A429InputBus functionalBusName="AR_ADAHRS">
+                <A429InputLabel labelDescription="ADAHRS data : Psi" labelName="280_00" labelNumber="280" labelType="BNR">
+                    <A429InputAvionicParameter a429CodingType="BNR" associatedProductFunctionalData="MAGNETIC_HEADING" lsbResolution="0.0006866455078" operationalMax="179.99931" operationalMin="-180" parameterDescription="Magnetic heading : psi" parameterName="PSI" parameterType="FLOAT" parameterUnit="deg" signed="YES"/>
+                </A429InputLabel>
+            </A429InputBus>
+        </A429>
+    </InputOutput>
+</icddata>

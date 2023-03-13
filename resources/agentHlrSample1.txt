@@ -1,0 +1,5 @@
+The HSIB shall compute heading data '''[aircraftHeading]''' as follows, with XX computed from '''[selectedHeadingSource]'''
+|'''ICD.AR_ADAHRS_XX.280''' validity    |'''MagneticHeadingValidity'''  |'''MagneticHeading'''      |
+|VALID                                  |TRUE                           |ICD.AR_ADAHRS_XX.280.PSI   |
+|VALID                                  |FALSE                          |NA                         |
+|INVALID                                |FALSE                          |NA                         |

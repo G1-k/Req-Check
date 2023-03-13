@@ -1,0 +1,3 @@
+The aircraft shall compute the current aircraft heading [aircraftHeading] based on the north reference, 
+if the north reference is magnetic then it shall be set to '''<MAGNETIC_HEADING>'''  
+otherwise to '''<MAGNETIC_HEADING>''' along with the '''<MAG_VAR>''' correction 
