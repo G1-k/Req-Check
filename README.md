@@ -6,12 +6,12 @@
 
 ### Steps to Run
 
-#### Forbidden_Words Module
+#### 1. Forbidden_Words Module
 ```
 forbidden_words.py "src/forbidden_words/test-files/test_requirement.txt"
 ```
 
-Standards used in 
+### Standards used in 
 1. System Requirements
     -> <ICD_PARAMETER>
     -> '''<ICD_PARAMETER>''', enclosed with ''' means it is bold characters 
