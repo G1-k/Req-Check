@@ -1,0 +1,2 @@
+When the heading is selected, the component shall compute '''[trueHeadingX]''', '''[northReference]''' and '''[heading]'''.
+ * When '''MagneticHeading''' is VALID set '''[trueHeadingX]''' to '''MagneticHeading''' + '''Magvar'''
