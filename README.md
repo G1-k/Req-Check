@@ -1,4 +1,4 @@
-# Req-Check
+# Req-Refiner
 
 ### Pre-requisite
 1. Python version 3.10.9 
