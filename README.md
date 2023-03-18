@@ -1,6 +1,6 @@
 # Req-Refiner
 
-![intro](resources\Images\intro.png)
+![intro](resources/Images/intro.png)
 
 ### Pre-requisite
 1. Python version 3.10.9 
@@ -16,10 +16,10 @@ python main.pty
 ### Output
 
 #### 1. Good Requirement
-![good_req](resources\Images\good_req.png)
+![good_req](resources/Images/good_req.png)
 
 #### 2. Bad Requirement
-![bad_req](resources\Images\bad_req.png)
+![bad_req](resources/Images/bad_req.png)
 
 
 
