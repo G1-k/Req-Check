@@ -10,7 +10,7 @@
 
 #### 1. Run the main file
 ```
-python main.pty
+python main.py
 ```
 
 ### Output
