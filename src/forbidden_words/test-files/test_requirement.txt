@@ -1,3 +1,0 @@
-if variable is may be true, then output be false, else it be true
-else  be
-
